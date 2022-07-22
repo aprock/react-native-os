@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description         = package['description']
   s.homepage            = package['homepage']
   s.license             = package['license']
-  s.author              = package['author']
+  s.author              = "PeelTechnologies"
   s.source              = { :git => 'https://github.com/aprock/react-native-os.git' }
   s.platform              = :ios, '9.0'
   s.ios.deployment_target = '9.0'
