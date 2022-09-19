@@ -2,6 +2,10 @@
   "name": "react-native-os",
   "version": "1.2.7",
   "description": "node's os module for react-native",
+  "author": {
+    "name": "Andy Prock",
+    "email": "aprock@protonmail.com"
+  },
   "main": "index.js",
   "scripts": {
     "start": "exit 1"
@@ -12,7 +16,6 @@
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "node's os module for react-native",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint-plugin-react": "^3.11.3"
@@ -30,9 +33,4 @@
   "bugs": {
     "url": "https://github.com/aprock/react-native-os/issues"
   },
-  "homepage": "https://github.com/aprock/react-native-os",
-  "devDependencies": {
-    "babel-eslint": "^4.1.6",
-    "eslint-plugin-react": "^3.11.3"
-  }
 }
