@@ -26,6 +26,10 @@
     "ios",
     "android"
   ],
+  "author": {
+    "name": "Andy Prock",
+    "email": "aprock@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aprock/react-native-os/issues"
