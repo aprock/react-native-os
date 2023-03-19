@@ -3,6 +3,7 @@
   "version": "1.2.7",
   "description": "node's os module for react-native",
   "main": "index.js",
+  "author": "aprock",
   "scripts": {
     "start": "exit 1"
   },
